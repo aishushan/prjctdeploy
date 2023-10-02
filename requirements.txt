@@ -3,4 +3,4 @@ numpy== 1.24.3
 pickle-mixin==1.0.2
 streamlit ==1.24.0
 joblib==1.2.0
-scikit-learn ==3.1.0
+scikit-learn ==1.2.2
