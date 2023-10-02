@@ -9,3 +9,4 @@ h5py== 3.9.0
 StandardScaler ==0.5
 sklearn== 0.0.post5
 joblib==1.2.0
+scikit-learn == 1.2.2
